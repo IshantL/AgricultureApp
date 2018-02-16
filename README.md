@@ -1,18 +1,28 @@
 # AgricultureApp
+
 Agriculture Decision Control System
 
-FrontEnd we are Using Angular5
+For FrontEnd I am using Angular5
 
-Prerequesites :Node JS,Angular CLI
+Prerequisites :Node JS,Angular CLI
+
 
 To Install Ember CLI
 
 npm install -g @angular/cli
 
-Create new Project 
+
+To Create new Project 
 
 ng new agriculture-app
 
-Run the server
+
+TO Run the server
 
 ng serve
+
+I have hosted this app on AWS Instance on port 4200.
+
+Live Demo at http://52.2.111.189:4200/
+
+For detail aboutr the Technical aspect please read the file inside agriculture-app/README.md
